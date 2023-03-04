@@ -1,0 +1,8 @@
+.vscode
+src/*.egg-info
+__pycache__
+demo
+dist
+*.png
+*.ipynb
+*.code-workspace
